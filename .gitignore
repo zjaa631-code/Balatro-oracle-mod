@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.jkr
+*.zip
+*.dll
+*.exe
+oracle-reports/
+docs/*-live-log.txt
+docs/*-regression-report.txt
+docs/*-test-results.txt
